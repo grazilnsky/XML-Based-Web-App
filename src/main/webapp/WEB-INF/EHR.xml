@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><patients>
+    <patient>
+        <patientName>Andrei Mititel</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Common Cold</diagnosticName>
+                <state>Mild</state>
+            </diagnostic>
+            <diagnostic>
+                <diagnosticName>Alcoholism</diagnosticName>
+                <state>Chronic</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Nurofen</medName>
+                    <wayOfUsage>Pill, twice a day</wayOfUsage>
+                </medication>
+                <startDate>2010-04-09</startDate>
+                <endDate>2018-05-21</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2015-07-08</immunisationDate>
+        <allergies>
+            <allergy>Pollen</allergy>
+            <allergy>Peanuts</allergy>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2016-04-12</testDate>
+            <details>Liver in good condition despite his addiction.</details>
+            <lab>
+                <labInfo>Lab 12</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+    
+    <patient>
+        <patientName>Babo Clabo</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Depression</diagnosticName>
+                <state>Chronic</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Antidepressant</medName>
+                    <wayOfUsage>Pill, once a day</wayOfUsage>
+                </medication>
+                <startDate>2015-10-01</startDate>
+                <endDate>2018-11-04</endDate>
+            </treatment>
+            
+            <treatment>
+                <medication>
+                    <medName>Adderall</medName>
+                    <wayOfUsage>Pill, twice a day</wayOfUsage>
+                </medication>
+                <startDate>2017-09-23</startDate>
+                <endDate>2018-11-04</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2013-12-25</immunisationDate>
+        <allergies>
+
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path>RANDOM TEST PATH</path>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-08-10</testDate>
+            <details>In better mental state than last year.</details>
+            <lab>
+                <labInfo>Lab 4</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+    
+    <patient>
+        <patientName>Octavius Caesar Pop</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Dementia</diagnosticName>
+                <state>He thinks he's a god damn Roman emperor.</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Incarceration</medName>
+                    <wayOfUsage>Feed him twice a day</wayOfUsage>
+                </medication>
+                <startDate>1992-01-12</startDate>
+                <endDate>indefinitely</endDate>
+            </treatment>
+            
+        </treatments>
+        <immunisationDate>1995-03-22</immunisationDate>
+        <allergies>
+
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2017-11-29</testDate>
+            <details>Mental state is deteriorating.</details>
+            <lab>
+                <labInfo>Lab 4</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+    
+    
+    <patient>
+        <patientName>Darla Gray</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Gunshot Wound</diagnosticName>
+                <state>Mild bleeding in left leg.</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Painkillers</medName>
+                    <wayOfUsage>Administer when pain gets unbearable.</wayOfUsage>
+                </medication>
+                <startDate>2017-02-26</startDate>
+                <endDate>2017-03-04</endDate>
+            </treatment>
+            
+        </treatments>
+        <immunisationDate>2003-06-03</immunisationDate>
+        <allergies>
+            <allergy>Aluminium</allergy>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2017-02-27</testDate>
+            <details>Wound is stable. No risk of Infection.</details>
+            <lab>
+                <labInfo>Lab 17</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+    
+    
+    <patient>
+        <patientName>Prigorski</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Fever</diagnosticName>
+                <state>38C.</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Aspirin</medName>
+                    <wayOfUsage>Administer when fever is worsening.</wayOfUsage>
+                </medication>
+                <startDate>2018-09-26</startDate>
+                <endDate>2018-10-01</endDate>
+            </treatment>
+            
+        </treatments>
+        <immunisationDate>2017-07-08</immunisationDate>
+        <allergies>
+            <allergy>Dog food</allergy>
+            <allergy>Germans</allergy>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2017-02-27</testDate>
+            <details>Healthy boi</details>
+            <lab>
+                <labInfo>Lab 2</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+    
+    
+    <patient>
+        <patientName>Tetsumi Akko</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Concussion</diagnosticName>
+                <state>Mild</state>
+            </diagnostic>
+            
+            <diagnostic>
+                <diagnosticName>Skin Lacerations</diagnosticName>
+                <state>Mild</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Painkillers</medName>
+                    <wayOfUsage>Administer once a day.</wayOfUsage>
+                </medication>
+                <startDate>2018-10-13</startDate>
+                <endDate>2018-10-24</endDate>
+            </treatment>
+            
+        </treatments>
+        <immunisationDate>2017-07-08</immunisationDate>
+        <allergies>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path>HERE</path>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-02-27</testDate>
+            <details>Pretty tough skull.</details>
+            <lab>
+                <labInfo>Lab 24</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+    
+    
+    <patient>
+        <patientName>Radu Marinescu</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName/>
+                <state/>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName/>
+                    <wayOfUsage/>
+                </medication>
+                <startDate/>
+                <endDate/>
+            </treatment>
+            
+        </treatments>
+        <immunisationDate>2001-03-16</immunisationDate>
+        <allergies>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path>HERE</path>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-02-27</testDate>
+            <details>lol</details>
+            <lab>
+                <labInfo>Lab 24</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+    
+    
+    <patient>
+        <patientName>Unknown</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Shell Shock</diagnosticName>
+                <state>Severe</state>
+            </diagnostic>
+            
+            <diagnostic>
+                <diagnosticName>3rd Degree Burns</diagnosticName>
+                <state>30% of the body</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Morphine</medName>
+                    <wayOfUsage>Administer when needed.</wayOfUsage>
+                </medication>
+                <startDate>2013-04-12</startDate>
+                <endDate>2013-04-30</endDate>
+            </treatment>
+            
+            <treatment>
+                <medication>
+                    <medName>Skin Graft</medName>
+                    <wayOfUsage>Must be surgically applied.</wayOfUsage>
+                </medication>
+                <startDate>2013-04-12</startDate>
+                <endDate>2016-07-20</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2012-02-02</immunisationDate>
+        <allergies>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path>HERE</path>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2017-02-27</testDate>
+            <details>Burns are barely visible anymore.</details>
+            <lab>
+                <labInfo>Lab 24</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+    
+    
+    <patient>
+        <patientName>Henry VIII</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Insanity</diagnosticName>
+                <state>REALLY wants a son.</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Xanax</medName>
+                    <wayOfUsage>Poppin pills</wayOfUsage>
+                </medication>
+                <startDate>1521-12-08</startDate>
+                <endDate>1547-01-28</endDate>
+            </treatment>
+            
+        </treatments>
+        <immunisationDate>N/A</immunisationDate>
+        <allergies>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>1521-12-06</testDate>
+            <details>jesus christ, i'm not paid enough for this.</details>
+            <lab>
+                <labInfo>Lab 12</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+    
+    
+    <patient>
+        <patientName>Jerry Seinfeld</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Jew</diagnosticName>
+                <state>Jew</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Coin bag</medName>
+                    <wayOfUsage>Shake it.</wayOfUsage>
+                </medication>
+                <startDate>1990-01-30</startDate>
+                <endDate>2000-04-01</endDate>
+            </treatment>
+            
+        </treatments>
+        <immunisationDate>1983-09-23</immunisationDate>
+        <allergies>
+            <allergy>Low Income Jobs</allergy>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>1990-01-21</testDate>
+            <details>What's the deal with treatments?</details>
+            <lab>
+                <labInfo>Lab 18</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+    
+    <patient>
+        <patientName>Gugus Gagus</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Cancer</diagnosticName>
+                <state>Stage 2</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Chemotherapy</medName>
+                    <wayOfUsage>All of it</wayOfUsage>
+                </medication>
+                <startDate>2011-04-12</startDate>
+                <endDate>2012-08-12</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2003-10-30</immunisationDate>
+        <allergies>
+            <allergy>Bee Stings</allergy>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path>path</path>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-08-10</testDate>
+            <details>Uncooperative, constant crying.</details>
+            <lab>
+                <labInfo>Lab 143.2</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+	
+	<patient>
+        <patientName>Mary Moo</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Osteoporosis</diagnosticName>
+                <state>Acute</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>B O N E P I L L S</medName>
+                    <wayOfUsage>Administer orally.</wayOfUsage>
+                </medication>
+                <startDate>2018-04-10</startDate>
+                <endDate>2019-08-12</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2017-10-30</immunisationDate>
+        <allergies>
+
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-01-10</testDate>
+            <details>Cry me a river</details>
+            <lab>
+                <labInfo>Lab 3.14159</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+	
+	<patient>
+        <patientName>Consuela Dragalenemetepefescu</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Flu</diagnosticName>
+                <state>Viral</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Prenandez</medName>
+                    <wayOfUsage>Administer nazally.</wayOfUsage>
+                </medication>
+                <startDate>2018-02-12</startDate>
+                <endDate>2018-08-12</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2016-10-30</immunisationDate>
+        <allergies>
+            <allergy>Dogs</allergy>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-08-10</testDate>
+            <details>Pretty good now.</details>
+            <lab>
+                <labInfo>Lab 3.14159</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+	
+	<patient>
+        <patientName>Fanel Gigolescu</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Libtard</diagnosticName>
+                <state>IT'S BAD</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Baseball bat</medName>
+                    <wayOfUsage>Hit him.</wayOfUsage>
+                </medication>
+                <startDate>2012-04-12</startDate>
+                <endDate>2018-08-12</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2015-10-30</immunisationDate>
+        <allergies>
+            <allergy>Books</allergy>
+            <allergy>Studying</allergy>
+            <allergy>Healthy Mental State</allergy>
+            <allergy>Pollen</allergy>
+            <allergy>The number pi</allergy>
+            <allergy>Soundwaves of frequency 440Hz</allergy>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-08-12</testDate>
+            <details>God have mercy.</details>
+            <lab>
+                <labInfo>Lab 3.14159</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+	
+	<patient>
+        <patientName>Bobbod</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Tall</diagnosticName>
+                <state>VERY</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Shortness Pills</medName>
+                    <wayOfUsage>Administer orally.</wayOfUsage>
+                </medication>
+                <startDate>1996-04-12</startDate>
+                <endDate>2018-08-12</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2015-09-09</immunisationDate>
+        <allergies>
+          
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path>path</path>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-08-10</testDate>
+            <details>Shorter now, but a bit dumber than expected.</details>
+            <lab>
+                <labInfo>Lab 1</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+	
+	<patient>
+        <patientName>Raveca</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Paladin</diagnosticName>
+                <state>Resto</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>No Internet</medName>
+                    <wayOfUsage>Visual</wayOfUsage>
+                </medication>
+                <startDate>2018-04-12</startDate>
+                <endDate>2018-08-12</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2001-10-30</immunisationDate>
+        <allergies>
+            <allergy>Peanuts</allergy>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-08-12</testDate>
+            <details>Bad healer.</details>
+            <lab>
+                <labInfo>Lab 2</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+	
+	<patient>
+        <patientName>Calin Guta</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Gout</diagnosticName>
+                <state>Acute</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>FikatForte</medName>
+                    <wayOfUsage>Administer Orally</wayOfUsage>
+                </medication>
+                <startDate>2018-05-12</startDate>
+                <endDate>2018-08-15</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2013-08-30</immunisationDate>
+        <allergies>
+            <allergy/>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-08-10</testDate>
+            <details>Lol whomst'd've eat meat</details>
+            <lab>
+                <labInfo>Lab 123</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+	
+	<patient>
+        <patientName>Mirica ****mica</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Bacterial Tonsilitis</diagnosticName>
+                <state>Acute</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Nurofen</medName>
+                    <wayOfUsage>Administer Orally</wayOfUsage>
+                </medication>
+                <startDate>2018-07-12</startDate>
+                <endDate>2018-08-12</endDate>
+            </treatment>
+            
+            <treatment>
+                <medication>
+                    <medName>Antibiotics</medName>
+                    <wayOfUsage>Administer Orally</wayOfUsage>
+                </medication>
+                <startDate>2018-07-12</startDate>
+                <endDate>2018-08-12</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2018-10-30</immunisationDate>
+        <allergies>
+            <allergy>MCDonald's</allergy>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path>path</path>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2018-08-11</testDate>
+            <details>OK</details>
+            <lab>
+                <labInfo>Lab 42</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+	
+	<patient>
+        <patientName>Relache din Umbre Sezonul 2</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Miopia</diagnosticName>
+                <state>Chronic</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Eyeglasses</medName>
+                    <wayOfUsage>Wear 'em.</wayOfUsage>
+                </medication>
+                <startDate>2015-04-12</startDate>
+                <endDate>2015-08-12</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2011-11-31</immunisationDate>
+        <allergies>
+            <allergy/>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path/>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2016-08-10</testDate>
+            <details>He didn't wear 'em.</details>
+            <lab>
+                <labInfo>Lab 3</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+	
+	<patient>
+        <patientName>Floricica Dansatoarea</patientName>
+        <diagnostics>
+            <diagnostic>
+                <diagnosticName>Urlatoare</diagnosticName>
+                <state>E GRAV</state>
+            </diagnostic>
+        </diagnostics>
+        <treatments>
+            <treatment>
+                <medication>
+                    <medName>Scotch</medName>
+                    <wayOfUsage>Place on mouth.</wayOfUsage>
+                </medication>
+                <startDate>1992-04-12</startDate>
+                <endDate>2018-08-12</endDate>
+            </treatment>
+        </treatments>
+        <immunisationDate>2013-12-12</immunisationDate>
+        <allergies>
+            <allergy>Political discourse.</allergy>
+        </allergies>
+        <radioImages>
+            <radioImage>
+                <path>path</path>
+            </radioImage>
+        </radioImages>
+        <testResults>
+            <testDate>2017-08-10</testDate>
+            <details>She kept shaking her ass when we tried getting a pulse, so we shot her with horse tranquillizer</details>
+            <lab>
+                <labInfo>Lab 3.14159</labInfo>
+            </lab>
+        </testResults>
+    </patient>
+</patients>
